@@ -1,0 +1,44 @@
+body{
+    font-family: sans-serif;
+    background-color: #008B8B;
+    color: white;
+}
+
+.name {
+    color: #F0E68C;
+}
+
+.photo{
+    width: 40%;
+}
+
+.main-img {
+    margin: 15% 20%;
+}
+
+.block div{
+    float: left;
+}
+
+.block-text{
+    width: 45%;
+    margin-top: 5%;
+}
+
+.footer{
+    background-color:#B22222;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+.footer p{
+    margin-left: 10%;
+}
+
+.footer-img {
+    width: 25px;
+    position: absolute;
+    right: 10%;
+}
